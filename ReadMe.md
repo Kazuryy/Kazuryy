@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Docker repo for a Discord Bot<br>🌱 I’m currently learning Python and PHP. I'm learning cybersecurity<br>⚡ I know how to deploy a server and parameter it
-
+🔭 I’m currently working on a Docker repo for a Discord Bot<br>🌱 I’m currently learning Python and PHP. I'm learning cybersecurity<br>⚡ I know how to deploy a server and parameter it.<br>😍 Love NAS and Docker
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Finnick5) 
